@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './builder-settings';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { builder } from '@builder.io/react';
