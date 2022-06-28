@@ -1,5 +1,5 @@
-import { Hero } from './Hero';
 import { Builder } from '@builder.io/react';
+import { Hero } from './Hero';
 
 export const HeroBuilderConfig = {
   name: 'Hero',
